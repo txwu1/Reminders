@@ -1,0 +1,70 @@
+.p-btn-lg{
+    padding-left: 3rem !important;
+    padding-right: 3rem !important;
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+}
+
+.mw-800{
+    max-width: 800px;
+}
+
+.mw-550{
+    max-width: 550px;
+}
+
+.mw-400{
+    max-width: 400px;
+}
+
+.header-createAccount{
+    font-weight: bold;
+}
+
+.header-addReminder h1{
+    font-weight: bold;
+}
+
+.header-addReminder p{
+    font-weight: bold;
+    font-size: 125%;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.reminder-table-body th{
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    font-weight: normal;
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.reminder-table-head th{
+    text-align: center !important;
+}
+
+/*
+.reminders p,h6{
+    margin-bottom: 0;
+    width: 100%;
+}
+
+.reminders h6{
+    text-decoration: underline;
+}*/
+
+.bgc-createAccount{
+    background-color: rgb(230, 209, 23);
+}
+
+.bgc-white{
+    background-color: white;
+}
+
+input[type='number']::-webkit-inner-spin-button, 
+input[type='number']::-webkit-outer-spin-button { 
+    opacity: 1;
+}
